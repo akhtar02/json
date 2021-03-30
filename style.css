@@ -40,3 +40,29 @@ textarea{
     min-height: 200px;
 }
 
+
+.post {
+    
+    background-color: #fff;
+    padding: 16px;
+    margin: 20px  0px;
+    border-radius: 10px;
+}
+
+.post h2{
+    margin: 0;
+}
+.post p{
+    margin-top: 0;
+}
+
+.post a{
+    color: #36cca2;
+}
+
+
+.detials{
+    margin:0 auto;
+    width: 70%;
+    text-align: justify;
+}
